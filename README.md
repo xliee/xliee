@@ -17,7 +17,7 @@
   <a href="https://github.com/xliee" target="_blank"><img src="https://img.shields.io/badge/Github-@xliee-%23181717?logo=github&style=for-the-badge" alt="Github"></a>
   </div>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=xliee&style=flat-square&color=blue" alt=""></p>
+<p align="center"><a href="https://github.com/xliee" target="_blank"><img src="https://komarev.com/ghpvc/?username=xliee&style=flat-square&color=blue" alt=""></a></p>
 
 
 [comment]: <> (Links to programming languages)
