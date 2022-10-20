@@ -13,7 +13,6 @@
   [![Spotify](https://spotify-show.vercel.app/api/spotify)](https://github.com/xliee)
     <br>
     <a href="https://wakatime.com/@xliee" target="_blank"><img src="https://wakatime.com/badge/user/c282635a-6a61-44a8-b6ae-ae217492e996.svg?style=for-the-badge" alt="wakatime"></a>
-  <a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   <a href="https://github.com/xliee" target="_blank"><img src="https://img.shields.io/badge/Github-@xliee-%23181717?logo=github&style=for-the-badge" alt="Github"></a>
   </div>
 </p>
