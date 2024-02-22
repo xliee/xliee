@@ -42,7 +42,5 @@
 
 <div align="center">
 <br>
-  <a href="https://wakatime.com/@xliee"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@xliee&layout=compact&theme=synthwave&v=2" alt="Stats"></a>
-
 
 </div>
