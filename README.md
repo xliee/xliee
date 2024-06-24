@@ -10,9 +10,7 @@
 <a href="https://t.me/xliee"><img src="https://img.shields.io/badge/Telegram-Blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://www.linkedin.com/in/xliee"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <br>
-  [![Spotify](https://spotify-show.vercel.app/api/spotify)](https://github.com/xliee)
-    <br>
-    <a href="https://wakatime.com/@xliee" target="_blank"><img src="https://wakatime.com/badge/user/c282635a-6a61-44a8-b6ae-ae217492e996.svg?style=for-the-badge" alt="wakatime"></a>
+
   <a href="https://github.com/xliee" target="_blank"><img src="https://img.shields.io/badge/Github-@xliee-%23181717?logo=github&style=for-the-badge" alt="Github"></a>
   </div>
 </p>
@@ -20,7 +18,7 @@
 
 
 [comment]: <> (Links to programming languages)
-<h3 align="center"><b>Languages:</h3>
+<h3 align="center"><b>Languages / technollogies:</h3>
 <p align="center"> 
   <!--  python  -->
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
